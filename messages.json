@@ -368,7 +368,7 @@
     "description":"Loading"
   },
   "html0021": {
-    "message": "Vaak verzamelen bedrijven jouw browsegeschiedenis voor advertenties en marketing. Deze data is echter minder toegankelijk voor degenen die de gegevens daadwerkelijk produceren - jij - of voor onderzoekers die meer willen weten over de sociale impact van internet. De Web Historian - Community Editie wordt gebruikt in een project van de Vrije Universiteit Amsterdam en de Universiteit van Amsterdam om erachter te komen hoe mensen online nieuws gebruiken. Dit is belangrijk omdat jed oor het lezen van het nieuws kennis vergaart en je mening vormt. Draag bij aan ons onderzoek door jouw browsegeschiedenis aan ons te \"doneren\" - hoe dat werkt, en wat er met jouw gegevens gebeurt, wordt uitgelegd op de volgende pagina.",
+    "message": "Vaak verzamelen bedrijven jouw browsegeschiedenis voor advertenties en marketing. Deze data is echter minder toegankelijk voor degenen die de gegevens daadwerkelijk produceren - jij - of voor onderzoekers die meer willen weten over de sociale impact van internet. De Web Historian - Community Editie wordt gebruikt in een project van de Vrije Universiteit Amsterdam en de Universiteit van Amsterdam om erachter te komen hoe mensen online nieuws gebruiken. Dit is belangrijk omdat je door het lezen van het nieuws kennis vergaart en je mening vormt. Draag bij aan ons onderzoek door jouw browsegeschiedenis aan ons te \"doneren\" - hoe dat werkt, en wat er met jouw gegevens gebeurt, wordt uitgelegd op de volgende pagina.",
     "description":"CUSTOM: step 2 body"
   },
   "html0029": {
@@ -376,11 +376,11 @@
     "description":"CUSTOM: Step 1 body"
   },
   "html0033": {
-    "message": "Als u besluit deel te nemen aan het onderzoek, wordt de zoekgeschiedenis van uw computer eenmalig beveiligd verstuurd naar de Web Historian server <strong>nadat</strong> u het bekeken en aangepast heeft.", 
+    "message": "Als u besluit deel te nemen aan het onderzoek, wordt de zoekgeschiedenis van uw computer en mobiel eenmalig beveiligd verstuurd naar de Web Historian server <strong>nadat</strong> u het bekeken en aangepast heeft.", 
     "description":"If you decide to participate in the research, the browsing history from your computer will be securely sent to the Web Historian server one time <strong>after</strong> you have reviewed and filtered it."
   },
   "html0034": {
-    "message": "Uw zoekgeschiedenis is gekoppeld aan uw computer, uw internetprovider en gedeeltelijk aan elke website die u bezoekt.", 
+    "message": "Uw zoekgeschiedenis is gekoppeld aan uw computer, uw mobiel, uw internetprovider en gedeeltelijk aan elke website die u bezoekt.", 
     "description":"Your web browsing history is on your computer, your ISP, and part of it is on every website you visit."
   },
   "html0035": {
@@ -692,7 +692,7 @@
     "description":"Step 8: Your Web Usage History"
   },
     "step9title": {
-    "message": "Stap 9", 
+    "message": "Stap 9: De laatste stap, wanneer u op deelnemen klikt start het uploaden van uw persoonlijke mobiele en laptop browsegeschiedenis. Hartelijk dank voor uw deelname aan ons onderzoek.", 
     "description":"Step 9: Informed Consent"
   },
     "usrset": {
