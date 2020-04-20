@@ -14,7 +14,7 @@ define([], function ()
     config.multiStudy = "No"; //run multiple studies (surveys) simultaniously
     config.multiStudyFromURL = "No"; //decide who is in which study (survey) via a URL string
     //two below only needed if getIDfromURL == "Yes"
-    config.idBaseUrl = /.*vuamsterdam.eu.qualtrics.com\/jfe\/form\/SV_b3BpjjteY6l24Kx.*/;
+    config.idBaseUrl = /.*vuass.eu.qualtrics.com\/jfe\/form\/SV_5jvrayzeLrKQO69.*/;
     config.otherVar = "your-second-variable-to-pass-to-svy";
         
     config.conditionUrl = function(participate, par, metadata, study, actions) {
@@ -22,7 +22,7 @@ define([], function ()
         //your survey MUST be able to accept data via URL strings to receive the ID to match the browsing data to the survey
         if (participate) {
         	//you can hard code the survey url here (example below), or have it come from the actions.json from the PDK/Django server
-            url += 'https://vuamsterdam.eu.qualtrics.com/jfe/form/SV_b3BpjjteY6l24Kx';
+            url += 'https://vuass.eu.qualtrics.com/jfe/form/SV_5jvrayzeLrKQO69';
             url += '?pid=';
             url += metadata['upload_identifier'];
             // url += "&"+config.otherVar;
